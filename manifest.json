@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "locale": "Spanish_Mexico.1252",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.11.0",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "31ae6efd3ced609f8ad8d107b2ec050d"
+    },
+    "README.md": {
+      "checksum": "7d1a7ecf8a648c7ec5bb4af2baf9211e"
+    },
+    "app.py": {
+      "checksum": "d6a199e8ef5fe6401ed4a7f1a16ecb47"
+    },
+    "titanic.csv": {
+      "checksum": "6a7a2ed01936ef56e903ba2bb2f6fbc6"
+    }
+  }
+}
